@@ -8,6 +8,7 @@ Before Imperial, I built production ML systems and internal AI tools at the Time
 Most of what I build sits at the same intersection: messy real-world workflows, AI that actually works in practice, and systems that give people clarity they did not have before.
 
 Currently working on
+
 Relay - career workflow automation for students;
 
 OT9 — AI governance middleware for regulated enterprises;
