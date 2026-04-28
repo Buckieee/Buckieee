@@ -23,4 +23,4 @@ TypeScript, Python, LLM engineering, RAG pipelines
 
 Production ML systems at scale
 
-relayuk.com · London, UK
+relayuk.com · itskairos.uk · London, UK
