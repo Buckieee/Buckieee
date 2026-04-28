@@ -9,8 +9,10 @@ Most of what I build sits at the same intersection: messy real-world workflows, 
 
 Currently working on
 Relay - career workflow automation for students;
+
 OT9 — AI governance middleware for regulated enterprises;
-Kairos Studio — product studio for AI-driven software tools;
+
+Kairos Studio — product studio for AI-driven software tools
 
 Background
 Backend engineering and data science
