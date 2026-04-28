@@ -16,7 +16,11 @@ OT9 - AI governance middleware for regulated enterprises;
 Kairos Studio - product studio for AI-driven software tools
 
 Background
+
 Backend engineering and data science
+
 TypeScript, Python, LLM engineering, RAG pipelines
+
 Production ML systems at scale
+
 relayuk.com · London, UK
